@@ -1,0 +1,5 @@
+1. Data had been analysed first to eliminate outliers using IQR.
+2. Visualise the data
+3. Auto encoded the data
+4. Model selection using K-fold cross validation
+5. Used linear regression due to high accuracy in all models
